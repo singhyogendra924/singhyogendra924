@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yogendra
 - 👀 I’m interested in Learning Full Stack
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on cool project to develop my skills
 - 📫 How to reach me Linkedin @singhyogendra924
 
 <!---
